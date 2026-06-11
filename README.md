@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Shakira 👋
 
-<!--
-**shaajjjk/shaajjjk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Systems Graduate from Kazakhstan.
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Web Development
+- Artificial Intelligence
+- Educational Technology
+- Automation
+
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- SQL
+- Vite
+- Tailwind CSS
+
+## Certifications
+
+- ICPC Kazakhstan Octafinal 2024 – Honorable Mention
+- Coursera – Introduction to Web Applications
+- Cyber Hygiene – MSSP Global
+- UNICEF Volunteer Program
+
+## GitHub Projects
+
+- Swift-Learn
+- Mobile Legends Knowledge Platform
+- Entertainment Center Website
+- Luxury Watches Catalog
